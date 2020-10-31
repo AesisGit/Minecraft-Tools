@@ -4,7 +4,7 @@ Minecraft Tools for all Minecraft versions made in C#. It has almost 100 unique 
 [UPDATE]
 Due to some bugs that I can't solve right now, never download the source code directly, instead go to the releases page and from there ONLY download the zip files that have a date-time name format since they are the only ones updated at the moment.
 
-[VERY OLD README, NOW IS A LOT MORE ADVANCED, SOON I'LL UPDATE THIS README]
+[THE REST IS A VERY OLD README, NOW IT'S A LOT MORE ADVANCED, SOON I'LL UPDATE THIS README]
 
 The new change log can be started by pressing Ctrl+L on the main window. And this repository includes a precompiled executable.
 
